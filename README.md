@@ -1,4 +1,4 @@
-<h4 align="center">Hello!<samp></samp></h4>
+<h1 align="center">Hello!<samp></samp></h4>
 <p align="center">
   <img width="600" src="https://github.com/gabrielyeniceri/gabrielyeniceri/blob/main/mr-snack-cat-camera.gif">
 </p>
